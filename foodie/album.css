@@ -1,0 +1,63 @@
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  background-color: rgba(8, 175, 204, 0.794);
+}
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+  }
+}
+h1 {
+  color: rgb(31, 9, 102);
+}
+
+h2 {
+  color:rgb(15, 78, 87);
+}
+
+li {
+  color: rgb(50, 28, 173);
+}
+
+h4 {
+  color: rgb(15, 78, 87);
+}
+
+p { 
+color: rgb(14, 5, 61);
+}
+
+card-body {
+color: rgba(66, 192, 212, 0.726);
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron h1 {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+  background-color: rgba(8, 175, 204, 0.794);
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+  background-color: rgba(8, 175, 204, 0.794);
+}
+
+
+    button {
+        color: rgb(21, 202, 21)
+}
